@@ -20,4 +20,4 @@ int main()
 
 ### Things I learned - 
 
-`getline(cin, var` is used to get a string until it stopped, like if use cin then it will stopped if it encounter a whiesapce or enter.
+`getline(cin, var)` is used to get a string until it stopped, like if use cin then it will stopped if it encounter a whitespace or enter.
